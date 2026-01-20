@@ -140,27 +140,26 @@ Query history is basic (timestamp + first 50 chars)
 Contributions welcome to fix any of these!
 
 ---
-### Contributing
+## Contribution Policy
 
-Pull requests are welcome!
-1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
+Feedback, bug reports, and suggestions are welcome.
 
-Please make sure your code follows PEP 8 style.
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
 
 ---
-### 📄 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+## License
+This project is not open-source.
 
-### 🙏 Acknowledgments
-
-Built with PyQt6</br>
-Inspired by DB Browser for SQLite, SQLiteStudio, and other great tools</br>
-Undo/redo pattern adapted from Qt examples
-
-Last updated: January 2026
-Star ⭐ the repo if you find it useful!
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.

@@ -102,7 +102,7 @@ python db_viewer.py
 Option 2: One-file executable (using PyInstaller)
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed --name "DBViewer" db_viewer_0.3.py
+pyinstaller --onefile --windowed --name "DBViewer" db_viewer.py
 The executable will appear in the dist/ folder.
 ```
 ---
@@ -114,7 +114,7 @@ PyQt6>=6.4.0
 ```text
 Project Structure
 textsqlite-db-viewer/
-├── db_viewer_0.3.py         ← main application (single file)
+├── db_viewer.py             ← main application (single file)
 ├── README.md
 ├── requirements.txt         (optional)
 ├── screenshots/             (recommended)

@@ -90,7 +90,7 @@ or
 python3 db_viewer.py
 ```
 
-📦 Installation Options
+### 📦 Installation Options
 
 Option 1: Run from source (recommended for development)
 ```bash
@@ -142,7 +142,7 @@ Query history is basic (timestamp + first 50 chars)
 Contributions welcome to fix any of these!
 
 ---
-## Contribution Policy
+### Contribution Policy
 
 Feedback, bug reports, and suggestions are welcome.
 
@@ -160,7 +160,7 @@ However:
 
 ---
 
-## License
+### License
 This project is not open-source.
 
 It is licensed under a private evaluation-only license.

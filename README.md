@@ -2,16 +2,6 @@
 
 **A modern, feature-rich desktop GUI tool for browsing, editing, and managing SQLite databases using Python + PyQt6.**
 
-![Screenshot placeholder - add one later](https://via.placeholder.com/900x550.png?text=Database+Viewer+Screenshot)
-<!-- You should replace this with a real screenshot later -->
-
-<p align="center">
-  <strong>Version:</strong> 0.3 &nbsp;&middot;&nbsp;
-  <strong>License:</strong> MIT &nbsp;&middot;&nbsp;
-  <strong>Python:</strong> 3.9+ &nbsp;&middot;&nbsp;
-  <strong>Framework:</strong> PyQt6
-</p>
-
 ---
 
 ⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
@@ -27,6 +17,18 @@ This repository is **source-available for private technical evaluation and testi
 
 All rights remain exclusively with the author.  
 Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
+![Screenshot placeholder - add one later](https://via.placeholder.com/900x550.png?text=Database+Viewer+Screenshot)
+<!-- You should replace this with a real screenshot later -->
+
+<p align="center">
+  <strong>Version:</strong> 0.3 &nbsp;&middot;&nbsp;
+  <strong>License:</strong> MIT &nbsp;&middot;&nbsp;
+  <strong>Python:</strong> 3.9+ &nbsp;&middot;&nbsp;
+  <strong>Framework:</strong> PyQt6
+</p>
 
 ---
 
